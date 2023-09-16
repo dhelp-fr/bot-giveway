@@ -1,0 +1,11 @@
+client:
+  token:
+  presence:
+    enable: true
+    status: online
+    activity:
+      - name: dhelp.fr
+        type: 4
+developer:
+  version: v1.0.0
+  lastUpdate: 13/09/2023

@@ -1,0 +1,19 @@
+{
+  "name": "ga-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "Ifanoxy#7183",
+  "license": "ISC",
+  "dependencies": {
+    "discord-api-types": "^0.37.56",
+    "discord.js": "^14.13.0",
+    "js-yaml": "^4.1.0",
+    "ms": "^2.1.3"
+  }
+}
